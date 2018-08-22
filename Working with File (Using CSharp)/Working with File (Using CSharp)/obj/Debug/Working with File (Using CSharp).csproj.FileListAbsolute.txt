@@ -1,0 +1,14 @@
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\bin\Debug\Working with File (Using CSharp).exe.config
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\bin\Debug\Working with File (Using CSharp).exe
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\bin\Debug\Working with File (Using CSharp).pdb
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp).csprojResolveAssemblyReference.cache
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\MainWindow.baml
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\MainWindow.g.cs
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\App.g.cs
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp)_MarkupCompile.cache
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp).g.resources
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working_with_File__Using_CSharp_.Properties.Resources.resources
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp).csproj.GenerateResource.Cache
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp).exe
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\Working with File (Using CSharp).pdb
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Working with File (Using CSharp)\Working with File (Using CSharp)\obj\Debug\App.baml
